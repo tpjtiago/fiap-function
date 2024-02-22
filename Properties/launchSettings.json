@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FIAP_FUNCTION": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7126",
+      "launchBrowser": false
+    }
+  }
+}
